@@ -9,8 +9,8 @@
 class Repixel < Formula
   desc "Recolor and upscale pixel art and animations without blurring"
   homepage "https://github.com/dithernaut/repixel"
-  url "https://github.com/dithernaut/repixel/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "575f7c73d5e52099bcb8140ed5ce6073a5a60e7a468a71e55bb9615cd57f77d6"
+  url "https://github.com/dithernaut/repixel/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "dbbf493385a46a48286ab8d4a2b47cbd18605b4863b3f1e0c0a4a5e52398f328"
   license "MIT"
 
   depends_on "ffmpeg"
