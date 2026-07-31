@@ -1,4 +1,4 @@
-# Dithernaut Tap
+# dithernaut tap
 
 ## Formulae
 
