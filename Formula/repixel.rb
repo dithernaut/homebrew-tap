@@ -1,10 +1,3 @@
-# Homebrew formula for repixel.
-#
-# This file does NOT belong in this repository once you publish it — copy it
-# into your tap repo as Formula/repixel.rb. It lives here so it's versioned
-# alongside the script it installs. See README.md in this directory.
-#
-# Fill in the sha256 (and bump the url's tag) before using.
 
 class Repixel < Formula
   desc "Recolor and upscale pixel art and animations without blurring"
