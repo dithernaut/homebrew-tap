@@ -1,4 +1,3 @@
-
 class Repixel < Formula
   desc "Recolor and upscale pixel art and animations without blurring"
   homepage "https://github.com/dithernaut/repixel"
