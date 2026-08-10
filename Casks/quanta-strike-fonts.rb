@@ -21,7 +21,6 @@ cask "quanta-strike-fonts" do
   font "quanta-strike/ttf/quanta-strike/quanta-strike-18-regular.ttf"
   font "quanta-strike/ttf/quanta-strike/quanta-strike-20-regular.ttf"
   font "quanta-strike/ttf/quanta-strike/quanta-strike-32-regular.ttf"
-
   font "quanta-strike/ttf/quanta-strike-mono/quanta-strike-6-mono-regular.ttf"
   font "quanta-strike/ttf/quanta-strike-mono/quanta-strike-10-mono-regular.ttf"
   font "quanta-strike/ttf/quanta-strike-mono/quanta-strike-12-mono-regular.ttf"
