@@ -12,13 +12,13 @@ cask "quanta-strike-fonts-nerd" do
     strategy :github_latest
   end
 
-  font "quanta-strike/ttf/quanta-strike-mono-nerd/quanta-strike-6-mono-nerd-regular.ttf"
   font "quanta-strike/ttf/quanta-strike-mono-nerd/quanta-strike-10-mono-nerd-regular.ttf"
-  font "quanta-strike/ttf/quanta-strike-mono-nerd/quanta-strike-12-mono-nerd-regular.ttf"
   font "quanta-strike/ttf/quanta-strike-mono-nerd/quanta-strike-12-mono-nerd-bold.ttf"
+  font "quanta-strike/ttf/quanta-strike-mono-nerd/quanta-strike-12-mono-nerd-regular.ttf"
   font "quanta-strike/ttf/quanta-strike-mono-nerd/quanta-strike-14-mono-nerd-regular.ttf"
   font "quanta-strike/ttf/quanta-strike-mono-nerd/quanta-strike-16-mono-nerd-regular.ttf"
   font "quanta-strike/ttf/quanta-strike-mono-nerd/quanta-strike-18-mono-nerd-regular.ttf"
   font "quanta-strike/ttf/quanta-strike-mono-nerd/quanta-strike-20-mono-nerd-regular.ttf"
   font "quanta-strike/ttf/quanta-strike-mono-nerd/quanta-strike-32-mono-nerd-regular.ttf"
+  font "quanta-strike/ttf/quanta-strike-mono-nerd/quanta-strike-6-mono-nerd-regular.ttf"
 end
